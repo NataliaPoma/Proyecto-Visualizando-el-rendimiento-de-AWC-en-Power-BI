@@ -58,5 +58,5 @@ Este proyecto refleja habilidades en modelado de datos, automatización de métr
 
 Si te interesó este proyecto y querés conocer más sobre mi trabajo en Business Intelligence, automatización de reportes o diseño de dashboards interactivos, ¡estoy abierta a nuevas oportunidades!
 
-📧 **Email:** mailto:rominaparrapoma@gmail.com  
+📧 **Email:** rominaparrapoma@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/nataliaparrapoma
